@@ -8,7 +8,7 @@ Email = input("Email: ")
 mysql_connect = mysql.connector.connect(
     host="localhost",
     user="python",
-    password="asd",
+    password="asdasd",
     database="pythonProgram"
 
 )
